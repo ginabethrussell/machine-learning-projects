@@ -4,6 +4,7 @@ Welcome to my Machine Learning Projects repository! This is a collection of proj
 
 ## Repository Structure
 
+```
 machine-learning-projects/
 ├── README.md                  # Overview of the repository
 ├── project-1-housing-prices/  # Predicting housing prices
@@ -19,6 +20,7 @@ machine-learning-projects/
     ├── linear-algebra.md      # Notes on linear algebra for ML
     ├── ml-basics.md           # Notes on machine learning basics
     └── resources.md           # Links to articles and tutorials
+```
 
 ## Projects Overview
 
